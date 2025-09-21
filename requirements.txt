@@ -1,0 +1,35 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+requests
+flask
+pytest
+jupyter
+
+# Additional Data Science & Analysis
+statsmodels
+xgboost
+joblib
+openpyxl
+xlrd
+python-docx
+PyMuPDF
+tqdm
+
+# API Development
+fastapi
+uvicorn
+pydantic
+
+# Notebook & Interactive Dev
+ipython
+notebook
+jupyterlab
+
+ipykernel
+
+protobuf==3.20.3
+jinja2>=3.1.2
