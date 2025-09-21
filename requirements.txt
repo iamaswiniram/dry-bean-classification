@@ -18,6 +18,7 @@ xlrd
 python-docx
 PyMuPDF
 tqdm
+imblearn
 
 # API Development
 fastapi
@@ -32,4 +33,5 @@ jupyterlab
 ipykernel
 
 protobuf==3.20.3
+
 jinja2>=3.1.2
